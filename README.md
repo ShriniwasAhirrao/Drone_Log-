@@ -36,7 +36,7 @@ This repository contains scripts and files to manage QR code data for an inspect
 
 ## Block Diagram Representation
 
-- ![Drone-Log Project Block Diagram](xyz.png)
+- ![Drone-Log Project Block Diagram](Blankdiagram(1).png)
 
 ### Important Notes
 
