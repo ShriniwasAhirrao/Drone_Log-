@@ -34,9 +34,12 @@ This repository contains scripts and files to manage QR code data for an inspect
 
 - `uasnmims_LITT.jpeg` is the logo of our team, 🔥LITT🔥 at NMIMS Shirpur.
 
+## Block Diagram Representation
+
+- ![Drone-Log Project Block Diagram](xyz.png)
+
 ### Important Notes
 
 - Ensure permissions and access rights are correctly set for GitHub repositories when using access tokens.
 - Modifications to the scripts should be made carefully to avoid unintended changes to the data.
-
 
