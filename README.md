@@ -36,7 +36,8 @@ This repository contains scripts and files to manage QR code data for an inspect
 
 ## Block Diagram Representation
 
-- ![Drone-Log Project Block Diagram](Blankdiagram(1).png)
+![Blank diagram (1)](https://github.com/ShriniwasAhirrao/Drone_Log-/assets/117919040/cd7530ec-3ec0-4094-9a67-e5240c932664)
+
 
 ### Important Notes
 
